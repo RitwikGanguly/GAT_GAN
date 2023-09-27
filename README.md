@@ -1,1 +1,1 @@
-# GAT_GAN.github.io
+# GAT_GAN
