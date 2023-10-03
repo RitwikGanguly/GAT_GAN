@@ -1,4 +1,18 @@
-# GAT GAN on YAN DATA
+# GAT GAN
+
+## Project Title: Subsampling and Data Generation for Single-Cell Clustering using GAT-GAN
+## Project Description: 
+In this project, we aim to enhance the efficiency and utility of single-cell DNA sequencing data by employing a two-step process. 
+First, we perform subsampling using Graph Attention Networks (GAT) to select a representative set of nodes with lesser number of sample value counts from the initial sample nodes in the dataset(i.e. Yan Data:In this data we have 90 samples and 10564 features, after doing subsampling using GAT we got 12 nodes and after we will be using these nodes for data generation), ensuring minimal value counts. This step helps reduce data complexity and dimensionality while preserving essential information.
+
+Next, we employ Generative Adversarial Networks (GANs) to generate new data points based on the subsampled dataset. These generated data points expand the dataset, enabling more comprehensive analysis and improving the robustness of single-cell clustering.
+
+This methodology is not limited to a single dataset(i.e. Yan Dataset) but can be applied to various single-cell clustering datasets, enhancing the scalability and versatility of our approach. The final output includes both the subsampled dataset and the generated data, paving the way for more effective single-cell clustering analysis in genomics research.
+
+
+
+
+
 
 ---
 
