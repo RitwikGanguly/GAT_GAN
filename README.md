@@ -1,5 +1,22 @@
 # GAT GAN
 
+---
+
+# Index of the Document
+| Topics (Ongoing) | No Of Questions |
+|--|--|
+| 1. [Description of the Project](#Project-Description) | 34 |
+| 2. [Regression Techniques](#regression-techniques--concepts-) | 22 |
+| 3. [Classification Techniques](#classification-techniques--concepts-) | 39 |
+| 3.1 [Support Vector Machines](#support-vector-machine-svm) | 12 |
+| 3.2 [Decision Tree](#decision-tree-concepts) | 16 |
+| 3.2 [Boosting( GBM, Light GBM, CatBoost)](#boosting-algorithms-gbm-lightgbm-catboost) | 5 |
+| 3.2 [Naive Bayes Classifier](#naive-bayes-classifier) | 5* |
+| 4. [Stats & probabality](#stats--probablity-fundamentals) | 5 |
+| 5. [Deep Learning Fundamentals](#deep-learning-fundamentals)| 15* |
+| 5.1 [CNN](#cnn-fundamentals--cost-function-backpropagation) | 14 |
+| 6 [Attention & Transformers](#deep-learning---nlp) | 10* |
+
 ## Project Title: Subsampling and Data Generation for Single-Cell Clustering using GAT-GAN
 ## Project Description: 
 In this project, we aim to enhance the efficiency and utility of single-cell DNA sequencing data by employing a two-step process. 
