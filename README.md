@@ -1,4 +1,35 @@
-# GAT GAN on YAN DATA
+# GAT GAN
+
+---
+
+# Index of the Document
+| Topics in Project | 
+|--|
+| 1. [Description of the Project](#Project-Description) | 
+| 2. [Regression Techniques](#regression-techniques--concepts-) | 
+| 3. [Classification Techniques](#classification-techniques--concepts-) | 
+| 3.1 [Support Vector Machines](#support-vector-machine-svm) | 
+| 3.2 [Decision Tree](#decision-tree-concepts) | 
+| 3.2 [Boosting( GBM, Light GBM, CatBoost)](#boosting-algorithms-gbm-lightgbm-catboost) | 
+| 3.2 [Naive Bayes Classifier](#naive-bayes-classifier) | 
+| 4. [Stats & probabality](#stats--probablity-fundamentals) | 
+| 5. [Deep Learning Fundamentals](#deep-learning-fundamentals)| 
+| 5.1 [CNN](#cnn-fundamentals--cost-function-backpropagation) | 
+| 6 [Attention & Transformers](#deep-learning---nlp) | 
+
+## Project Title: Subsampling and Data Generation for Single-Cell Clustering using GAT-GAN
+## Project Description: 
+In this project, we aim to enhance the efficiency and utility of single-cell DNA sequencing data by employing a two-step process. 
+First, we perform subsampling using Graph Attention Networks (GAT) to select a representative set of nodes with lesser number of sample value counts from the initial sample nodes in the dataset(i.e. Yan Data:In this data we have 90 samples and 10564 features, after doing subsampling using GAT we got 12 nodes and after we will be using these nodes for data generation), ensuring minimal value counts. This step helps reduce data complexity and dimensionality while preserving essential information.
+
+Next, we employ Generative Adversarial Networks (GANs) to generate new data points based on the subsampled dataset. These generated data points expand the dataset, enabling more comprehensive analysis and improving the robustness of single-cell clustering.
+
+This methodology is not limited to a single dataset(i.e. Yan Dataset) but can be applied to various single-cell clustering datasets, enhancing the scalability and versatility of our approach. The final output includes both the subsampled dataset and the generated data, paving the way for more effective single-cell clustering analysis in genomics research.
+
+
+
+
+
 
 ---
 
@@ -9,7 +40,7 @@
 <div style="display: flex; justify-content: space-between; align-items: center;">
   
   <div align="center">
-    <img src="https://scontent.fccu2-3.fna.fbcdn.net/v/t39.30808-6/380339577_724622013013311_2705563811895619501_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=a2f6c7&_nc_ohc=6c-fErdIlm0AX_OpCzE&_nc_ht=scontent.fccu2-3.fna&oh=00_AfAoLmW4f_y0_MXJ4nS32Kik7Y_D4-gGCBUWgTdfg2lMYQ&oe=651982E8" height="200" alt="Developer 1" width="200">
+    <img src="https://github.com/RitwikGanguly/GAT_GAN/blob/main/Images/Ritwik%20Image%201.jpg" height="200" alt="Developer 1" width="175">
     <p><b>Ritwik Ganguly</b></p>
     <p align="center">
     <a href="https://www.linkedin.com/in/ritwikganguly003/" target="blank"><img align="center" src="https://www.svgrepo.com/show/110195/linkedin.svg" alt="ritwik-ganguly-148aa2203" height="30" width="40" /></a>
