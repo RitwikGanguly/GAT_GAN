@@ -9,7 +9,7 @@
 <div style="display: flex; justify-content: space-between; align-items: center;">
   
   <div align="center">
-    <img src="https://scontent.fccu2-3.fna.fbcdn.net/v/t39.30808-6/380339577_724622013013311_2705563811895619501_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=a2f6c7&_nc_ohc=6c-fErdIlm0AX_OpCzE&_nc_ht=scontent.fccu2-3.fna&oh=00_AfAoLmW4f_y0_MXJ4nS32Kik7Y_D4-gGCBUWgTdfg2lMYQ&oe=651982E8" height="200" alt="Developer 1" width="200">
+    <img src="https://github.com/RitwikGanguly/GAT_GAN/blob/main/Images/Ritwik%20Image%201.jpg" height="200" alt="Developer 1" width="175">
     <p><b>Ritwik Ganguly</b></p>
     <p align="center">
     <a href="https://www.linkedin.com/in/ritwikganguly003/" target="blank"><img align="center" src="https://www.svgrepo.com/show/110195/linkedin.svg" alt="ritwik-ganguly-148aa2203" height="30" width="40" /></a>
