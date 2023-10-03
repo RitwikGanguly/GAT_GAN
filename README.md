@@ -4,27 +4,19 @@
 
 # Index of the Document
 
-<h1>Topics in Project</h1>
-
-<ul>
-  <li><a href="#Project-Description">Description of the Project</a></li>
-  <li><a href="#regression-techniques--concepts-">Regression Techniques</a></li>
-  <li><a href="#classification-techniques--concepts-">Classification Techniques</a>
-    <ul>
-      <li><a href="#support-vector-machine-svm">Support Vector Machines</a></li>
-      <li><a href="#decision-tree-concepts">Decision Tree</a></li>
-      <li><a href="#boosting-algorithms-gbm-lightgbm-catboost">Boosting (GBM, Light GBM, CatBoost)</a></li>
-      <li><a href="#naive-bayes-classifier">Naive Bayes Classifier</a></li>
-    </ul>
-  </li>
-  <li><a href="#stats--probablity-fundamentals">Stats & Probability</a></li>
-  <li><a href="#deep-learning-fundamentals">Deep Learning Fundamentals</a>
-    <ul>
-      <li><a href="#cnn-fundamentals--cost-function-backpropagation">CNN</a></li>
-    </ul>
-  </li>
-  <li><a href="#deep-learning---nlp">Attention & Transformers</a></li>
-</ul>
+| Topics in Project | 
+|--|
+| 1. [Description of the Project](#project-description) | 
+| 2. [Regression Techniques](#regression-techniques--concepts-) | 
+| 3. [Classification Techniques](#classification-techniques--concepts-) | 
+| 3.1 [Support Vector Machines](#support-vector-machine-svm) | 
+| 3.2 [Decision Tree](#decision-tree-concepts) | 
+| 3.2 [Boosting( GBM, Light GBM, CatBoost)](#boosting-algorithms-gbm-lightgbm-catboost) | 
+| 3.2 [Naive Bayes Classifier](#naive-bayes-classifier) | 
+| 4. [Stats & probabality](#stats--probablity-fundamentals) | 
+| 5. [Deep Learning Fundamentals](#deep-learning-fundamentals)| 
+| 5.1 [CNN](#cnn-fundamentals--cost-function-backpropagation) | 
+| 6 [Attention & Transformers](#deep-learning---nlp) | 
 
 ## Project Title: Subsampling and Data Generation for Single-Cell Clustering using GAT-GAN
 ## Project Description: 
