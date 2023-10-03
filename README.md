@@ -40,7 +40,7 @@ This methodology is not limited to a single dataset(i.e. Yan Dataset) but can be
 <div style="display: flex; justify-content: space-between; align-items: center;">
   
   <div align="center">
-    <img src="https://scontent.fccu11-1.fna.fbcdn.net/v/t39.30808-6/385863541_731240315684814_9041053619138049891_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=49d041&_nc_ohc=cjPDyQTPaYkAX_kAJQI&_nc_ht=scontent.fccu11-1.fna&oh=00_AfCLTSNS_83uunO58mpR6rMqNwwRXv_g6kngXtEsfGeUfw&oe=6520163F" height="200" alt="Developer 1" width="200">
+    <img src="https://scontent.fccu11-1.fna.fbcdn.net/v/t39.30808-6/385860305_731250479017131_3309006476143941761_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=49d041&_nc_ohc=pAQRMcLIF18AX_Sdn5C&_nc_ht=scontent.fccu11-1.fna&oh=00_AfA4Kga6xbjTKivPPXQjrR_4Iimz3SetN3Pb6fFmB4IO5A&oe=6520ADBA" height="200" alt="Developer 1" width="175">
     <p><b>Ritwik Ganguly</b></p>
     <p align="center">
     <a href="https://www.linkedin.com/in/ritwikganguly003/" target="blank"><img align="center" src="https://www.svgrepo.com/show/110195/linkedin.svg" alt="ritwik-ganguly-148aa2203" height="30" width="40" /></a>
