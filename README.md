@@ -3,12 +3,6 @@
 ---
 
 # Index of the Document
-<!DOCTYPE html>
-<html>
-<head>
-  <title>Project Index</title>
-</head>
-<body>
 
 <h1>Topics in Project</h1>
 
