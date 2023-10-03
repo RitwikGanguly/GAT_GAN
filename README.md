@@ -26,9 +26,6 @@
   <li><a href="#deep-learning---nlp">Attention & Transformers</a></li>
 </ul>
 
-</body>
-</html>
-
 ## Project Title: Subsampling and Data Generation for Single-Cell Clustering using GAT-GAN
 ## Project Description: 
 In this project, we aim to enhance the efficiency and utility of single-cell DNA sequencing data by employing a two-step process. 
