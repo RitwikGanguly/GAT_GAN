@@ -247,7 +247,7 @@ Uniform Manifold Approximation and Projection (UMAP) is a dimensionality reducti
     </p>
   </div>
   <div align="center">
-    <img src="https://scontent.fccu2-2.fna.fbcdn.net/v/t39.30808-6/399241950_843557810824379_7883884432871232091_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=5f2048&_nc_ohc=6yTOdzf89xUAX9aOr1e&_nc_ht=scontent.fccu2-2.fna&oh=00_AfB3hLNzxCXBbGtlO3VB43sTaC-XSglFUjXe73NnlwUvyA&oe=65691322" height="200" alt="Nilanjana" width="200">
+    <img src="https://scontent.fccu2-2.fna.fbcdn.net/v/t39.30808-6/399241950_843557810824379_7883884432871232091_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=5f2048&_nc_ohc=6yTOdzf89xUAX9aOr1e&_nc_ht=scontent.fccu2-2.fna&oh=00_AfB3hLNzxCXBbGtlO3VB43sTaC-XSglFUjXe73NnlwUvyA&oe=65691322" height="200" alt="Nilanjana" width="185">
     <p><b>Nilanjana Bhattacharya</b></p>
     <p align="center">
     <a href="https://www.linkedin.com/in/nilanjana-bhattacharya-270007263/" target="blank"><img align="center" src="https://www.svgrepo.com/show/110195/linkedin.svg" alt="ritwik-ganguly-148aa2203" height="30" width="40" /></a>
