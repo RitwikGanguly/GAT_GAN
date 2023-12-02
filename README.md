@@ -7,7 +7,7 @@
 | Topics in Project | 
 |--|
 | 1. [Description of the Project](#project-description) | 
-| 2. [GAN](#generative-adversarial-network-(GAN)) | 
+| 2. [GAN](#generative-adversarial-network) | 
 | 3. [Classification Techniques](#classification-techniques--concepts-) | 
 | 3.1 [Support Vector Machines](#support-vector-machine-svm) | 
 | 3.2 [Decision Tree](#decision-tree-concepts) | 
@@ -71,7 +71,7 @@ Single-cell clustering is a computational technique applied in genomics to analy
   - Detecting and characterizing rare cell populations, which may be crucial in understanding diseases or uncovering unique cellular functions. 
   -->
 
-## Generative Adversarial Network (GAN)
+## Generative Adversarial Network
 
 ### Overview
 
