@@ -7,7 +7,7 @@
 | Topics in Project | 
 |--|
 | 1. [Description of the Project](#project-description) | 
-| 2. [Regression Techniques](#regression-techniques--concepts-) | 
+| 2. [GAN](#generative-adversarial-network-(GAN)) | 
 | 3. [Classification Techniques](#classification-techniques--concepts-) | 
 | 3.1 [Support Vector Machines](#support-vector-machine-svm) | 
 | 3.2 [Decision Tree](#decision-tree-concepts) | 
@@ -221,6 +221,7 @@ Uniform Manifold Approximation and Projection (UMAP) is a dimensionality reducti
 
 
 
+## TSNE
 
 
 
