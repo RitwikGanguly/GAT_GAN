@@ -7,8 +7,8 @@
 | Topics in Project | 
 |--|
 | 1. [Description of the Project](#project-description) | 
-| 2. [GAN](#generative-adversarial-network) | 
-| 3. [Classification Techniques](#classification-techniques--concepts-) | 
+| 2. [Single-Cell Clustering](#single-Cell-clustering) | 
+| 3. [GAN](#generative-adversarial-network) | 
 | 3.1 [Support Vector Machines](#support-vector-machine-svm) | 
 | 3.2 [Decision Tree](#decision-tree-concepts) | 
 | 3.2 [Boosting( GBM, Light GBM, CatBoost)](#boosting-algorithms-gbm-lightgbm-catboost) | 
@@ -30,7 +30,7 @@ This methodology is not limited to a single dataset(i.e. Yan Dataset) but can be
 ---
 # GAT-GAN Model for single Cell Clustering
 
-<!--## Single-Cell Clustering
+## Single-Cell Clustering
 
 ### Overview
 
@@ -69,7 +69,7 @@ Single-cell clustering is a computational technique applied in genomics to analy
 
 - **Rare Cell Identification:**
   - Detecting and characterizing rare cell populations, which may be crucial in understanding diseases or uncovering unique cellular functions. 
-  -->
+
 
 ## Generative Adversarial Network
 
